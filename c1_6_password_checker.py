@@ -9,7 +9,11 @@
 print("""Welcome to the duck blow up simulator!
 You have to tell me all the passwords to deactivate the Hydrolic Bomb.""")
 
-
+# RCH: Please follow the instructions, it should ask for a user name
+# Then, if that is correct, it will prompt for a password.
+# Finally, if both are correct, it will print something.  If either is wrong, it will print something else.
+# This will ask for a password. Then, whether it is right or wrong, it will prompt for another one.
+# Please fix this and see me if you need help.
 password1 = "ducks"
 password2 = "car radio"
 password3 = "Kim"
